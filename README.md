@@ -1,5 +1,6 @@
-Web design using HTML-CSS
-here is the screenshot of the webpage 
-Also Vhost on Apache
-![Screenshot (26)](https://github.com/shweta0117/Training/assets/156767416/01f5c72e-a367-4de3-8dc7-d7fddcd0ebc3)
-![Screenshot (32)](https://github.com/shweta0117/Training/assets/156767416/d9a5a932-1289-4d20-8422-b2e46d0be0d1)
+Here, is the final web page design 
+Also the screenshot of the web page is attached below.
+
+
+![Screenshot (26)](https://github.com/WisdmLabs/shweta-kumari/assets/156767416/855db3e2-f040-4e69-a567-a4f3417e77f5)
+![Screenshot (32)](https://github.com/WisdmLabs/shweta-kumari/assets/156767416/762ee1ee-a195-4bf4-8cb7-f52a3cfb8648)
